@@ -8,6 +8,8 @@ public class GitPrac {
 	public void shra()
 	{
 		System.out.println("hy there");
+		
+		//pushed and now pulling
 	}
 
 }
