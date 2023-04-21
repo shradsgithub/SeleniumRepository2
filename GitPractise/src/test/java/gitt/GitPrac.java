@@ -10,6 +10,7 @@ public class GitPrac {
 		System.out.println("hy there");
 		
 		//pushed and now pulling
+		//hy there I pushed again..
 	}
 
 }
