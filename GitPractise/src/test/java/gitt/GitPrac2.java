@@ -8,6 +8,7 @@ public class GitPrac2 {
 	public void rise()
 	{
 		System.out.println("Never quit");
+		//making some changes
 	}
 
 }
